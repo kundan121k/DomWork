@@ -26,5 +26,5 @@ function handleKeyDown(event) {
     if(event.key === 'Enter') {
         calculatePrice();
     }
-    //y
+    //yhjk
 }
